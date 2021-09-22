@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "praxis-beacon-326806",
+  "private_key_id": "9d36fd7239670b1ba306a0c6d22867290274782e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCiaNUnYDFxx7QN\nSoRb+EVDFD/YSiyjs/t7TKWDUoDunR7/oCiWXgVPgXGqc+uA90dWn4bsyhLYnKy7\nlbsNHBqGrG07TOOrg+7X2qHACFO6UZTy5mayQ+4196OLUp3WDfPDaVL7WTEoZRPk\nHwd5jZB8zkxDyr2JLMRX74yxUPgWSsbHOn5aDnoz/DE8uhcN0MPjJhQ9YrYldPkW\n5Gi4Tzhuc+6UllZHierztXsJNQ2CUoBxiQOpA8ffKrlDa53TvVy7GBidRB+5GGvj\n3beLXkCeANjxKCf0FwC/opSL8VISdTQy31cza0NX6oedJZInNdJReWOFvzPcC5n4\nTSESeNT3AgMBAAECggEAGkLeTgF+wpmv/Rgyt9ZjiLm3qycvTwHgOmtF4NVl62+K\nSXu3JGgBRCkNCAAPhtPf/AX2oMekwtREFV8G7H3ssiB5LIYTKF2V24nK7uIfJnkL\nnzfvR4hhdpDbp+siLNsmXU+Pb1ItoeJaPuBflTb1XqD9xwEmTbiTP8QzQ/bGRCrt\nijc4pToNZk4qlPDF9e/I7XeZ7Rr8Ucd5Dfm8ZXIJJE4maBPqRh42MtOSutMcaDmD\nQyKYgU2noql/TKbYaSUgDVRENzfZ/x14fBtu6Odf77BA4nRxKO4ijmDao6EKIjx5\nfvYMQ38E/CxVLgM6Ef3iywm6E1xgDpOPx8ZQW2MPPQKBgQDVdR4IyRVKBLw4XeE6\nvvJdtWRvIaQLGMF9H2JNRBz8+V86WT6UvfMnev+oeHN3FCvg4NNQy0l3WjsDnCxr\ng+c/vuVHS/KZl3d1oqlXb1qAESj3R9xRDKGYbFG8QNJgCFT5WHoEMDCqlw8Y7Zdc\nzgXcGsV+2Rx6C5GeeNzF0g91rQKBgQDCxy3/MTiDh/I7elkHsZgXoP6c3Z9E9kvO\nAKkwX7RPSEcn2gdtnSUJ+l5X2zu4ykPVfTO6focVCkYiNHvPWe7tGSXBZfaeVXeh\nVu2YBYqZPZMByR6oiHbwFOhGb3xLnuBiY2Qv/cppAXA1ksc63PJn5naiqYIp5M9k\n9PVV8r9hswKBgDPrseuHJdOERVgclb1ZVtCuX4ickS9VzTKnIJ0UtUxfR+eEb7F0\nZqGyzF7pNYTAdk/Tv/LGD8+lNfeR1EgupGAgCdsGwTLU4ezOLQykfEnsYp+Lbi6U\nuPW/Wz5EMifDvw+LktpT8nJ8HeL9X7TmNAyuwl0xaDjTeY8nbOP9TV9dAoGBAJPn\nNYlTceuG/qylghdyhuBicxTgwUFXmUZrgA3ojn2pj8a2K+/TZT3HbX5fTmFKzem+\nMdqKm76hV5I/skhIrUJDV0UdTQD8O2Q7Ix3OD2m/tPKlKu+k+FPkPGDH5WVy1kY/\n3OMIX3wPCIrV0w1im3vEKA/qkZmIUugBjo5eT287AoGAFBl8EGUjELKE29hAO5yH\nWJqDW50pS3TYNtZJajsMaGOriEPA5G51LCUmNgV1SEDlut675A5WT4IPmzsYt3X+\noICNILATob2OZ3dlZKmGFkqRa0USOp+IzBjSu+qj7SOf2/f7WYbGoXXUUUPkVIuI\nUZNkkHgF/AWwAaKgwkhQSIw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-c-zw487d16p4kcwt2anppgqkln@praxis-beacon-326806.iam.gserviceaccount.com",
+  "client_id": "110636295998134941147",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-c-zw487d16p4kcwt2anppgqkln%40praxis-beacon-326806.iam.gserviceaccount.com"
+}
